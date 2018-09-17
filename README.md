@@ -1,2 +1,4 @@
 # Hello-world
-My first repository
+
+Hello there, my name is Bayingana and I like working with java, bootstrap, 
+and javascript.
